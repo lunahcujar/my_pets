@@ -1,0 +1,3 @@
+id,name,breed,birth,kind,female
+4,Ariel,gato,2019,cat,False
+5,Agata,gato,2019,cat,True
